@@ -13,3 +13,6 @@ Read our blogs here:
 
 ## Legal
 To find out more about our policies and the policies of our brands, click [here](https://secisit.com/legal).
+
+## Our Mission
+You can find out more about our mission [here](https://secisit.com/ourmission).
