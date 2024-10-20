@@ -16,3 +16,6 @@ To find out more about our policies and the policies of our brands, click [here]
 
 ## Our Mission
 You can find out more about our mission [here](https://secisit.com/ourmission).
+
+## Song of the Year
+You can find the latest Song of the Year [here](https://blastcast.co.uk/songoftheyear). Voting for Song of the Year 2025 will start soon.
