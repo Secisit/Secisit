@@ -19,3 +19,6 @@ You can find out more about our mission [here](https://secisit.com/ourmission).
 
 ## Song of the Year
 You can find the latest Song of the Year [here](https://blastcast.co.uk/songoftheyear). Voting for Song of the Year 2025 will start soon.
+
+## Maintenance
+You can see current maintenance on our network [here](https://secisit.com/maintenance).
