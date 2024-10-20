@@ -9,4 +9,5 @@ We're currently experiencing issues with this service and are working with the c
 **Expected Resolution**: October 20th 2024 @ 7:50PM
 
 ### Current Steps Taken
-1. An email has been sent to the company who manages our link shortener. 
+1. An email has been sent to the company who manages our link shortener.
+2. We have recieved an email back and it hasn't resolved the issue, another email has been sent.
