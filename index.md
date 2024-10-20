@@ -1,4 +1,6 @@
 # Hey there, welcome to the official website for Secisit!
+> [!IMPORTANT]
+>We're currently having issues with our link shortener. You can find out more about this [here](https://secisit.com/maintenance).
 
 ## Who are we?
 We're a technology business who wants to make the world a better place, we also own [Blastcast](https://blastcast.co.uk) which specialises in televsion.
