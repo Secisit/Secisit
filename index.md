@@ -1,5 +1,4 @@
 # Hey there, welcome to the official website for Secisit!
-> [!IMPORTANT]
 >We're currently having issues with our link shortener. You can find out more about this [here](https://secisit.com/maintenance).
 
 ## Who are we?
