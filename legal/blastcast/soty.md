@@ -1,5 +1,5 @@
 # Song of the Year
-Last updated: October 20th 2024
+Last Updated: October 20th 2024
 
 ## 1. Voting for Song of the Year
 Voting for Song of the Year is **free** and can be done on the [Blastcast](https://blastcast.co.uk) website when votes are open.
