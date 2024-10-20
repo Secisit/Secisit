@@ -8,5 +8,7 @@ Here's where you can find our current policies for Blastcast:
 
 [Privacy Policy](https://secisit.com/legal/blastcast/pp)
 
+[Song of the Year](https://secisit.com/legal/blastcast/soty)
+
 ## Domain Names
 If you'd like to find out more about what domain names we own, click [here](https://secisit.com/domainnames).
