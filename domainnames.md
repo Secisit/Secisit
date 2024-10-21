@@ -15,4 +15,4 @@ This is the list of domain names that we own on Blastcast:
 - blastcast.uk
 
 ## Reporting a domain name that isn't from us.
-If the domain name isn't from us, please email support@secisit.com and also contact the registrar of the domain name and ask them to take it down, you cam find the registrar of any domain name [here](https://lookup.icann.org).
+If the domain name isn't from us, please email support@secisit.com and also contact the registrar of the domain name and ask them to take it down, you can find the registrar of any domain name [here](https://lookup.icann.org).
