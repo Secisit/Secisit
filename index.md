@@ -3,6 +3,8 @@
 ## Who are we?
 We're a technology business who wants to make the world a better place, we also own [Blastcast](https://blastcast.co.uk) which specialises in televsion.
 
+If you'd like to contact us, click [here](https://secisit.com/contact).
+
 ## Our Brands
 [Blastcast](https://blastcast.co.uk)
 
