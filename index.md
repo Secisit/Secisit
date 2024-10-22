@@ -24,3 +24,6 @@ You can find the latest Song of the Year [here](https://blastcast.co.uk/songofth
 
 ## Maintenance
 You can see current maintenance on our network [here](https://secisit.com/maintenance).
+
+## Staff
+If you're a Secisit or Blastcast staff member, click [here](https://secisitintranet.sharepoint.com) to get access to our Staff Portal.
